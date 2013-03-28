@@ -1,4 +1,4 @@
-base-project
+Base PHP project template
 ============
 
-Base PHP Project with all requried start scripts
+This is a template to quick startup any php-based project, weither Web-application or CLI tools

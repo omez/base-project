@@ -1,0 +1,28 @@
+{
+	"name": "omez/base-project",
+	"homepage": "http://github.com/omez/base-project",
+	"require": {
+		"zendframework/zendframework": "2.*",
+		"doctrine/orm": "2.*",
+		"doctrine/migrations": "*@dev",
+		"doctrine/data-fixtures": "*@dev",
+		"doctrine/doctrine-orm-module": "*",
+	},
+	"minimum-stability": "stable",
+	"config": {
+		"bin-dir": "vendor/bin"
+	},
+	"authors": [
+		{
+			"name": "Alexander Sergeychik",
+			"email": "alexander.sergeychik@gmail.com"
+		}
+	],
+	
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.zendframework.com/"
+		}
+	]
+}
