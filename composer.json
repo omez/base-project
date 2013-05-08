@@ -3,11 +3,7 @@
 	"version": "0.1.2-dev",
 	"homepage": "http://github.com/omez/base-project",
 	"require": {
-		"zendframework/zendframework": "2.*",
-		"doctrine/orm": "2.*",
-		"doctrine/migrations": "*@dev",
-		"doctrine/data-fixtures": "*@dev",
-		"doctrine/doctrine-orm-module": "*",
+		"zendframework/zendframework": "2.*"
 	},
 	"minimum-stability": "stable",
 	"config": {
